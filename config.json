@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "special_name": "Rasmalai Cake",
+    "special_desc": "Soft sponge soaked in rasmalai flavour, saffron cream, and pistachio garnish.",
+    "special_price": "1000"
+  },
+  "contact": {
+    "phone": "8925187976",
+    "address": "West Mambalam, Chennai - 600033"
+  },
+  "shop_photo": "images/shop.jpg",
+  "categories": [
+    {
+      "name": "Cake Flavours",
+      "items": [
+        { "name": "Chocolate Cake", "desc": "Rich, moist & full of chocolate goodness. Variants: Truffle | Fudge | KitKat", "price": "₹600", "veg": true },
+        { "name": "Vanilla Cake", "desc": "Soft, light & perfect for all celebrations", "price": "₹500", "veg": true },
+        { "name": "Strawberry Cake", "desc": "Fresh, fruity & slightly tangy delight", "price": "₹650", "veg": true },
+        { "name": "Pineapple Cake", "desc": "Light, juicy & refreshing classic", "price": "₹600", "veg": true },
+        { "name": "Black Forest Cake", "desc": "Chocolate sponge layered with cream & cherries", "price": "₹650", "veg": true },
+        { "name": "Butterscotch Cake", "desc": "Caramel flavour with crunchy praline", "price": "₹650", "veg": true },
+        { "name": "Red Velvet Cake", "desc": "Smooth cocoa flavour with cream cheese frosting", "price": "₹900", "veg": true },
+        { "name": "Mango Cake", "desc": "Made with real mango pulp (Seasonal)", "price": "₹700", "veg": true },
+        { "name": "Coffee / Mocha Cake", "desc": "Perfect blend of coffee & chocolate", "price": "₹750", "veg": true },
+        { "name": "Fresh Fruit Cake", "desc": "Topped with seasonal fresh fruits", "price": "₹800", "veg": true },
+        { "name": "Ferrero Rocher Cake", "desc": "Premium special", "price": "from ₹1000", "veg": true, "badge": "Premium" },
+        { "name": "Tiramisu Cake", "desc": "Premium special", "price": "from ₹1000", "veg": true, "badge": "Premium" },
+        { "name": "Rasmalai Cake", "desc": "Premium special", "price": "from ₹1000", "veg": true, "badge": "Premium" },
+        { "name": "KitKat Chocolate Cake", "desc": "Premium special", "price": "from ₹1000", "veg": true, "badge": "Premium" },
+        { "name": "Caramel Salted Caramel Cake", "desc": "Premium special", "price": "from ₹1000", "veg": true, "badge": "Premium" }
+      ]
+    },
+    {
+      "name": "Sandwiches",
+      "items": [
+        { "name": "Plain Sandwich", "desc": "", "price": "₹50", "veg": true },
+        { "name": "Vegetable Sandwich", "desc": "", "price": "₹60", "veg": true },
+        { "name": "Mayo Veg Sandwich", "desc": "", "price": "₹70", "veg": true },
+        { "name": "Spicy Veg Mayo Sandwich", "desc": "", "price": "₹80", "veg": true },
+        { "name": "Chilly Cheese Toast", "desc": "", "price": "₹90", "veg": true },
+        { "name": "Fresh Paneer Sandwich", "desc": "", "price": "₹90", "veg": true },
+        { "name": "Mayo Paneer Sandwich", "desc": "", "price": "₹90", "veg": true }
+      ]
+    },
+    {
+      "name": "Maggi",
+      "items": [
+        { "name": "Plain Maggi", "desc": "", "price": "₹40", "veg": true },
+        { "name": "Double Masala Maggi", "desc": "", "price": "₹45", "veg": true },
+        { "name": "Veg Maggi", "desc": "", "price": "₹50", "veg": true },
+        { "name": "Paneer Cheese Maggi", "desc": "", "price": "₹90", "veg": true }
+      ]
+    },
+    {
+      "name": "Mojitos",
+      "items": [
+        { "name": "Apple Mojito", "desc": "", "price": "₹80", "veg": true },
+        { "name": "Green Apple Mojito", "desc": "", "price": "₹80", "veg": true },
+        { "name": "Lime Mojito", "desc": "", "price": "₹80", "veg": true },
+        { "name": "Black Currant Mojito", "desc": "", "price": "₹80", "veg": true },
+        { "name": "Blue Curacao Mojito", "desc": "", "price": "₹80", "veg": true }
+      ]
+    },
+    {
+      "name": "Pizza",
+      "items": [
+        { "name": "Veg Pizza", "desc": "", "price": "₹100", "veg": true },
+        { "name": "Paneer Pizza", "desc": "", "price": "₹120", "veg": true }
+      ]
+    },
+    {
+      "name": "Snacks",
+      "items": [
+        { "name": "Cheese Balls (5 pcs)", "desc": "", "price": "₹60", "veg": true },
+        { "name": "Veg Smileys (5 pcs)", "desc": "", "price": "₹70", "veg": true },
+        { "name": "French Fries", "desc": "", "price": "₹70", "veg": true },
+        { "name": "Pizza Nuggets", "desc": "", "price": "₹70", "veg": true },
+        { "name": "Cheese Corn Nuggets", "desc": "", "price": "₹70", "veg": true }
+      ]
+    },
+    {
+      "name": "Momos",
+      "items": [
+        { "name": "Veg Momos", "desc": "", "price": "₹70", "veg": true },
+        { "name": "Paneer Momos", "desc": "", "price": "₹80", "veg": true },
+        { "name": "Peri Peri Momos", "desc": "", "price": "₹90", "veg": true }
+      ]
+    },
+    {
+      "name": "Milk Shakes",
+      "items": [
+        { "name": "Black Currant Milk Shake", "desc": "", "price": "₹100", "veg": true },
+        { "name": "Mango Milk Shake", "desc": "", "price": "₹100", "veg": true },
+        { "name": "Strawberry Milk Shake", "desc": "", "price": "₹100", "veg": true },
+        { "name": "Oreo Milk Shake", "desc": "", "price": "₹100", "veg": true }
+      ]
+    }
+  ]
+}
